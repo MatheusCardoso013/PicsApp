@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "titulo": "Todas"
+    },
+    {
+        "id": 1,
+        "titulo": "Futebol",
+        "tag": 1
+    },
+    {
+        "id": 2,
+        "titulo": "Basquete",
+        "tag": 2
+    },
+    {
+        "id": 3,
+        "titulo": "Futebol Americano",
+        "tag": 3
+    },
+    {
+        "id": 4,
+        "titulo": "MMA",
+        "tag": 4
+    }
+]
